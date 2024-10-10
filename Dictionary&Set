@@ -1,0 +1,6 @@
+#FUNCTION IN PYTHON = BLOCK OF STATEMENT THAT PERFORM A SPECIFIC TASK
+a = 5
+b = 10
+sum = a + b
+print(sum)
+

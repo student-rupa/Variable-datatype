@@ -1,5 +1,14 @@
 # Python
 #Python for beginners
+#arithmetic operation
 
 a = int(input("first = "))
 b = int(input("second = "))
+c = int(input("third = "))
+
+sum = a + b
+
+print(sum)
+print(a * b)
+print(a % b) #reminder
+print(a ** b) #a^b
